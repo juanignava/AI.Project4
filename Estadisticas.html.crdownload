@@ -1,0 +1,58 @@
+ <div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">Delito</th><th scope="col">SubDelito</th><th scope="col">Fecha</th><th scope="col">Hora</th><th scope="col">Victima</th><th scope="col">SubVictima</th><th scope="col">Edad</th><th scope="col">Genero</th><th scope="col">Nacionalidad</th><th scope="col">Provincia</th><th scope="col">Canton</th><th scope="col">Distrito</th>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-01-02</td><td>06:00:00 - 08:59:59</td><td>PERSONA</td><td>PEATON [PERSONA]</td><td>Mayor de edad</td><td>HOMBRE</td><td>NICARAGUA</td><td>SAN JOSE</td><td>SAN JOSE</td><td>HOSPITAL</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-01-01</td><td>15:00:00 - 17:59:59</td><td>PERSONA</td><td>PEATON [PERSONA]</td><td>Mayor de edad</td><td>MUJER</td><td>COSTA RICA</td><td>LIMON</td><td>TALAMANCA</td><td>TELIRE</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-01-08</td><td>12:00:00 - 14:59:59</td><td>PERSONA</td><td>PEATON [PERSONA]</td><td>Mayor de edad</td><td>MUJER</td><td>COSTA RICA</td><td>LIMON</td><td>SIQUIRRES</td><td>SIQUIRRES</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-01-08</td><td>09:00:00 - 11:59:59</td><td>EDIFICACION</td><td>PULPERIA/ABASTECEDOR/MINISUPER/EXPENDIO CARNE [EDIFICACION]</td><td>Adulto Mayor</td><td>DESCONOCIDO</td><td>COSTA RICA</td><td>SAN JOSE</td><td>PURISCAL</td><td>SANTIAGO</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-01-10</td><td>00:00:00 - 02:59:59</td><td>PERSONA</td><td>PEATON [PERSONA]</td><td>Mayor de edad</td><td>DESCONOCIDO</td><td>COSTA RICA</td><td>ALAJUELA</td><td>ALAJUELA</td><td>ALAJUELA</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-01-11</td><td>09:00:00 - 11:59:59</td><td>PERSONA</td><td>OTRO O INDETERMINADO [PERSONA]</td><td>Mayor de edad</td><td>MUJER</td><td>COSTA RICA</td><td>ALAJUELA</td><td>SAN RAMON</td><td>SAN RAMON</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-01-17</td><td>00:00:00 - 02:59:59</td><td>PERSONA</td><td>PEATON [PERSONA]</td><td>Mayor de edad</td><td>DESCONOCIDO</td><td>Desconocido</td><td>SAN JOSE</td><td>SAN JOSE</td><td>SAN SEBASTIAN</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-01-16</td><td>21:00:00 - 23:59:59</td><td>PERSONA</td><td>PEATON [PERSONA]</td><td>Mayor de edad</td><td>HOMBRE</td><td>COSTA RICA</td><td>GUANACASTE</td><td>SANTA CRUZ</td><td>TAMARINDO</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-01-18</td><td>15:00:00 - 17:59:59</td><td>PERSONA</td><td>PEATON [PERSONA]</td><td>Mayor de edad</td><td>HOMBRE</td><td>NICARAGUA</td><td>GUANACASTE</td><td>LIBERIA</td><td>LIBERIA</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-01-17</td><td>18:00:00 - 20:59:59</td><td>VEHICULO</td><td>OTRO O INDETERMINADO [VEHICULO]</td><td>Mayor de edad</td><td>MUJER</td><td>COSTA RICA</td><td>SAN JOSE</td><td>SAN JOSE</td><td>SAN SEBASTIAN</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-01-20</td><td>18:00:00 - 20:59:59</td><td>PERSONA</td><td>PEATON [PERSONA]</td><td>Mayor de edad</td><td>HOMBRE</td><td>COSTA RICA</td><td>SAN JOSE</td><td>DESAMPARADOS</td><td>DESAMPARADOS</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-01-24</td><td>21:00:00 - 23:59:59</td><td>PERSONA</td><td>PEATON [PERSONA]</td><td>Mayor de edad</td><td>HOMBRE</td><td>COSTA RICA</td><td>SAN JOSE</td><td>ASERRI</td><td>ASERRI</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-01-25</td><td>18:00:00 - 20:59:59</td><td>PERSONA</td><td>PEATON [PERSONA]</td><td>Mayor de edad</td><td>MUJER</td><td>COSTA RICA</td><td>LIMON</td><td>MATINA</td><td>BATAN</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-01-26</td><td>09:00:00 - 11:59:59</td><td>EDIFICACION</td><td>PULPERIA/ABASTECEDOR/MINISUPER/EXPENDIO CARNE [EDIFICACION]</td><td>Mayor de edad</td><td>MUJER</td><td>COSTA RICA</td><td>ALAJUELA</td><td>SAN RAMON</td><td>SAN JUAN</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-01-27</td><td>15:00:00 - 17:59:59</td><td>PERSONA</td><td>PEATON [PERSONA]</td><td>Mayor de edad</td><td>MUJER</td><td>NORUEGA</td><td>PUNTARENAS</td><td>PUNTARENAS</td><td>COBANO</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-01-30</td><td>00:00:00 - 02:59:59</td><td>PERSONA</td><td>PEATON [PERSONA]</td><td>Mayor de edad</td><td>HOMBRE</td><td>COSTA RICA</td><td>ALAJUELA</td><td>ALAJUELA</td><td>SAN ISIDRO</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-01-31</td><td>15:00:00 - 17:59:59</td><td>EDIFICACION</td><td>TIENDA/BOUTIQUE [EDIFICACION]</td><td>Mayor de edad</td><td>MUJER</td><td>NICARAGUA</td><td>ALAJUELA</td><td>SAN RAMON</td><td>SAN RAMON</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-01-31</td><td>15:00:00 - 17:59:59</td><td>PERSONA</td><td>PEATON [PERSONA]</td><td>Mayor de edad</td><td>HOMBRE</td><td>NICARAGUA</td><td>CARTAGO</td><td>CARTAGO</td><td>ORIENTAL</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-02-01</td><td>21:00:00 - 23:59:59</td><td>PERSONA</td><td>PEATON [PERSONA]</td><td>Mayor de edad</td><td>MUJER</td><td>COSTA RICA</td><td>PUNTARENAS</td><td>COTO BRUS</td><td>SAN VITO</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-02-06</td><td>09:00:00 - 11:59:59</td><td>VIVIENDA</td><td>NO APLICA [VIVIENDA]</td><td>Adulto Mayor</td><td>HOMBRE</td><td>COSTA RICA</td><td>ALAJUELA</td><td>SAN RAMON</td><td>SAN RAMON</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-02-01</td><td>18:00:00 - 20:59:59</td><td>PERSONA</td><td>PEATON [PERSONA]</td><td>Mayor de edad</td><td>DESCONOCIDO</td><td>Desconocido</td><td>ALAJUELA</td><td>ALAJUELA</td><td>SAN JOSE</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-02-07</td><td>18:00:00 - 20:59:59</td><td>PERSONA</td><td>PEATON [PERSONA]</td><td>Mayor de edad</td><td>HOMBRE</td><td>COSTA RICA</td><td>SAN JOSE</td><td>PEREZ ZELEDON</td><td>DANIEL FLORES</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-02-12</td><td>06:00:00 - 08:59:59</td><td>PERSONA</td><td>PEATON [PERSONA]</td><td>Mayor de edad</td><td>HOMBRE</td><td>COSTA RICA</td><td>SAN JOSE</td><td>PEREZ ZELEDON</td><td>SAN ISIDRO DE EL GENERAL</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-02-13</td><td>18:00:00 - 20:59:59</td><td>VEHICULO</td><td>AUTOMOVIL [VEHICULO]</td><td>Mayor de edad</td><td>HOMBRE</td><td>COSTA RICA</td><td>HEREDIA</td><td>SAN ISIDRO</td><td>CONCEPCION</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-02-17</td><td>06:00:00 - 08:59:59</td><td>PERSONA</td><td>PEATON [PERSONA]</td><td>Mayor de edad</td><td>MUJER</td><td>COSTA RICA</td><td>ALAJUELA</td><td>ALAJUELA</td><td>RIO SEGUNDO</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-02-16</td><td>21:00:00 - 23:59:59</td><td>VEHICULO</td><td>SERVICIO PUBLICO/TAXI LEGAL O PIRATA/AUTOBUS [VEHICULO]</td><td>Mayor de edad</td><td>HOMBRE</td><td>COSTA RICA</td><td>SAN JOSE</td><td>SAN JOSE</td><td>ZAPOTE</td>
+		</tr><tr>
+			<td>ASALTO</td><td>ARMA BLANCA</td><td>2022-02-18</td><td>21:00:00 - 23:59:59</td><td>PERSONA</td><td>OTRO O INDETERMINADO [PERSONA]</td><td>Mayor de edad</td><td>HOMBRE</td><td>COSTA RICA</td><td>ALAJUELA</td><td>SARCH&
